@@ -27,7 +27,7 @@ from qianfan.consts import Consts
 from qianfan.tests.utils import EnvHelper
 
 TEST_BEARER_TOKEN = (
-    "bce-v3/ALTAK-JZasis7GfnokSLLXykKHj/054c2e64c06db4d6019f0dbfc964e90aa3fc3ddd"
+    "xxx"
 )
 TEST_MODEL = "ernie-unit-test"
 
